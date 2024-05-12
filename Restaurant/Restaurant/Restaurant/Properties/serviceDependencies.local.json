@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "secretStore": null,
+      "resourceId": null,
+      "type": "secrets.user",
+      "connectionId": null
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "",
+      "containerPorts": "1433:1433",
+      "secretStore": "LocalSecretsFile",
+      "containerName": "sql1",
+      "containerImage": "mcr.microsoft.com/mssql/server:2022-latest",
+      "resourceId": null,
+      "type": "mssql.container",
+      "connectionId": "ConnectionString"
+    }
+  }
+}

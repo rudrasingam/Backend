@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  sql1:
+    image: "mcr.microsoft.com/mssql/server:2022-latest"
+    hostname: "sql1"
+    restart: always
+    ports: 
+        - 1433:1433
+    environment:
+      - ACCEPT_EULA="Y"
+      - SA_PASSWORD=342b6ba8-f1ae-454d-ab2b-937e4966aa71

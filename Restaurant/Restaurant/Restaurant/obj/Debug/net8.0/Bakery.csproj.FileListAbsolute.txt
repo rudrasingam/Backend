@@ -1,0 +1,690 @@
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.AssemblyReference.cache
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfoInputs.cache
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfo.cs
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.sourcelink.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\refint\Bakery.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.pdb
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\appsettings.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Bakery.exe
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Bakery.deps.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Bakery.runtimeconfig.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Bakery.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Bakery.pdb
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Humanizer.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.build.Bakery.props
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bakery.props
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bakery.props
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\scopedcss\bundle\Bakery.styles.css
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CopyComplete
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
+C:\Users\line_\OneDrive\Skrivebord\Semester 6\Front end\Opgaver i visual\Bakery\Bakery\obj\Debug\net8.0\ref\Bakery.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\appsettings.Development.json
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\appsettings.json
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Bakery.exe
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Bakery.deps.json
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Bakery.runtimeconfig.json
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Bakery.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Bakery.pdb
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Azure.Core.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Azure.Identity.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\CsvHelper.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Humanizer.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.CodeDom.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Code\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.AssemblyReference.cache
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfoInputs.cache
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfo.cs
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CoreCompileInputs.cache
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.sourcelink.json
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.build.Bakery.props
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bakery.props
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bakery.props
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\scopedcss\bundle\Bakery.styles.css
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CopyComplete
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.dll
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\refint\Bakery.dll
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.pdb
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
+C:\Code\Bakery\Bakery\obj\Debug\net8.0\ref\Bakery.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\appsettings.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Bakery.exe
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Bakery.deps.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Bakery.runtimeconfig.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Bakery.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Bakery.pdb
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.AssemblyReference.cache
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfoInputs.cache
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfo.cs
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.sourcelink.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.build.Bakery.props
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bakery.props
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bakery.props
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\scopedcss\bundle\Bakery.styles.css
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CopyComplete
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\refint\Bakery.dll
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.pdb
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
+C:\Users\mikk2\Desktop\BAD3\Bakery\Bakery\obj\Debug\net8.0\ref\Bakery.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\appsettings.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.exe
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.deps.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.runtimeconfig.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.pdb
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Humanizer.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.AssemblyReference.cache
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfoInputs.cache
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfo.cs
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.sourcelink.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.build.Bakery.props
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bakery.props
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bakery.props
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\scopedcss\bundle\Bakery.styles.css
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CopyComplete
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\refint\Bakery.dll
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.pdb
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
+C:\Users\rudra\Downloads\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\ref\Bakery.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\appsettings.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.exe
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.deps.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.runtimeconfig.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Bakery.pdb
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Humanizer.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.AssemblyReference.cache
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfoInputs.cache
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.AssemblyInfo.cs
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.sourcelink.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.Bakery.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.build.Bakery.props
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bakery.props
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bakery.props
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\scopedcss\bundle\Bakery.styles.css
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.csproj.CopyComplete
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\refint\Bakery.dll
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.pdb
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
+C:\Users\rudra\Desktop\Softwareteknologi\4.semester\SW4PRJ4-01 Semesterprojekt 4\sw4bad-mas3-grp18\sw4bad-mas3-grp18\BAD_MA3_Solution_grp18\Bakery\Bakery\obj\Debug\net8.0\ref\Bakery.dll
